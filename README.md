@@ -81,6 +81,7 @@ Then open your browser and navigate to:
    **A:** Evaporation, condensation, precipitation, and collection.
 
 ...up to 10 cards.
+![image](https://github.com/user-attachments/assets/4f2a86ed-e596-4ad8-8a4c-ae580ab4be4c)
 
 ---
 
