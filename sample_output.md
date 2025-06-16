@@ -1,4 +1,3 @@
-```markdown
 # 📋 Sample Execution – Flashcard Generator
 
 This file demonstrates how the Flashcard Generator processes real-world educational input into concise Q&A flashcards using a Large Language Model (Gemini 1.5 in this case).
@@ -10,11 +9,8 @@ This file demonstrates how the Flashcard Generator processes real-world educatio
 **Topic:** The Water Cycle  
 **Input Source:** Textbook Excerpt (Environmental Science)
 
-```
 
 The water cycle, also known as the hydrological cycle, describes the continuous movement of water on, above, and below the surface of the Earth. This cycle includes processes such as evaporation, condensation, precipitation, infiltration, and runoff. The sun drives the entire cycle by providing energy for evaporation. Water vapor condenses into clouds, which eventually release precipitation. Some of the water seeps into the ground (infiltration), while the rest flows into rivers and oceans (runoff), where the process repeats.
-
-```
 
 ---
 
@@ -65,5 +61,3 @@ The water cycle, also known as the hydrological cycle, describes the continuous 
 - Flashcards are clean, factual, and suitable for academic review.
 - The tool is scalable for longer inputs (e.g., full chapters or notes).
 - Easy to extend for subject tagging, difficulty levels, or exports.
-
-```
