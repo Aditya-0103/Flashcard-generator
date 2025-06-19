@@ -93,6 +93,7 @@ Flashcard-generator/
 ├── app.py                # Main Streamlit app logic
 ├── file_parser.py        # Function to parse LLM response
 ├── flashcard_gen.        # Function to parse LLM response
+├── requirements.text
 ├── sample_output.md      # Sample output
 └── utils.py              # Function to parse LLM response    
 ```
