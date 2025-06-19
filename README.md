@@ -89,10 +89,12 @@ Then open your browser and navigate to:
 
 ```
 Flashcard-generator/
-├── app.py             # Main Streamlit app logic
-├── utils.py           # Function to parse LLM response
-├── requirements.txt   # Python dependencies
-└── README.md          # Project documentation
+├── README.md             # Project documentation
+├── app.py                # Main Streamlit app logic
+├── file_parser.py        # Function to parse LLM response
+├── flashcard_gen.        # Function to parse LLM response
+├── sample_output.md      # Sample output
+└── utils.py              # Function to parse LLM response    
 ```
 
 ---
